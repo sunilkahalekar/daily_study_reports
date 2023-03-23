@@ -8,3 +8,4 @@ This is summary of links of daily reading
 Date: 23-03-2023
 1. https://medium.com/hackernoon/malware-analysis-using-osquery-part-1-78f5f617cc19
 2. https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/evolution-emotet-trojan-distributor
+3. https://files.brucon.org/2015/Tomczak_and_Ballenthin_Shims_for_the_Win.pdf
