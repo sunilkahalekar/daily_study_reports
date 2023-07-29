@@ -67,8 +67,15 @@ Write an osquery + install sysomn out put server.
 
 
 
+flexibility at client, middle level and tool lavel
+continuous improvment process done
+Real beautiy it give choices. Very flexible way. Do at sensor. 
 
+Auditd or ebpf
+Is it combining. Osquery gives you data. non evented table at point at time. just wrpper no state, user table all user at that time give information. Doesnt have past information. just at that time. t+5 sec at that time. t+2 come new user and t+3 it vanishes. osqiery doenst know about this. anything like this non evented table.
 
+Evented table asyncrous  information. Os knows. whenever this event happen then inform me about this. Listern application store this information in somehere. Every time goes to evented table.
+It is like cctv or dvr. No processing. Kistning and storing part. minimal process. just applying filer.
 
 
 
