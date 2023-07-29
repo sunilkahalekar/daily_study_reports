@@ -17,3 +17,63 @@ Date: 02-05-2023
 
 https://blog.eclecticiq.com/polish-healthcare-industry-targeted-by-vidar-infostealer-likely-linked-to-djvu-ransomware?utm_campaign=No%20campaign&utm_medium=email&_hsmi=256632541&_hsenc=p2ANqtz-9JXh1KtTIm0wsrac129fPgU0B7hJa6I53l_J4fG2mxf9CXy31YvTkZIaXV2-SNHxrMuKii-ysowSizcKGmHqT_LNKtjcCf9K4lL_fFQ96E8-o4s-s&utm_content=256632541&utm_source=hs_email
 
+Meeting: 29-07-2023
+Each and every api should have test case
+crash in deletion. Deletion api kill server, we need to check that. 
+Identify bugs: In User control and shut down application. it is big bug.
+
+documentation and writting test part: 
+Look at documentation cloud application, REST API documentation which will be helpful.
+Link for Documentation : https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/?s=09#how-to-document-a-rest-api-with-swagger
+
+Storing output of this test case.: github repository
+
+Test cases, are much interative to user.
+Run for non admin ,admin user, non supporting machines
+Error Part: not much cases,
+Screen shot of each folder
+
+CACSL tool windows tool
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cacls
+just invoke this tool.
+
+Marker file is indication of osquery pid file, orevent simultanous invocation
+you have to reomve marker file. What is middle accidentaly doing twise. 
+Corner cases. Improving whole programme. Fix for that.
+
+Evented Log:
+How does this eventing happen? Windows log, extension is doing. Many of linux table are evented. Process, file socket are evented.
+How osquery manage evneted 
+How tdo you
+every os tells you
+What is event. Any activity in system which cahage stste. So chaning registry event, file ete. Our objective is reorcd that chnage.
+Certain Osallow you easer as piit of programmig ie information of those event. Linuz give those methond out of box. Same is MAC. also, has simmiliar method. Now concern about security event. Those mechcanism are trusted and reliable. 
+On windows this event are typical from kernal which is complicated tast but not easy task.
+Microsoft ensure that kernal is not easy task. It also required addisional skill test.
+
+Osquery, destabalising sytem is detached from as kernal development is very risky.
+window: etw is method capturing windows event.
+Thery are writting technology and techniogy not cause a stabalizing issue.
+ETW table are avaiable.
+
+SISMON + osquery= ecleticiq
+
+Sysmon has kernal mechnisum. Sysmon is not native compnent of osquery.
+knowing sysmon parallen mechanisum fuse with osquery data.
+sysmon is free but licenece version. 
+Write an osquery + install sysomn out put server.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
