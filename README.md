@@ -79,7 +79,8 @@ It is like cctv or dvr. No processing. Kistning and storing part. minimal proces
 
 
 
-
+snapshot and differential
+Only evented table know about this
 
 
 
